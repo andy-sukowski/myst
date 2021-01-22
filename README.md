@@ -3,6 +3,8 @@
 This is my custom version of [st](https://st.suckless.org), a simple terminal
 emulator for X which sucks less.
 
+It uses the [Nord](https://www.nordtheme.com) theme, an arctic, north-bluish color palette.
+
 ## Requirements
 
 In order to build st you need the Xlib header files.
